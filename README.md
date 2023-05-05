@@ -1,2 +1,2 @@
-# Bobby-Zhu.github.io
-Personal Website
+# dsc106.github.io
+site
